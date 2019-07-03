@@ -1,15 +1,6 @@
 # Education Template
 - layout: left
   name: Bishop Vaughan
-  dates: 2012-2015
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
-    
-# Education Template
-- layout: left
   name: Brondeg
   dates: 2012-2015
   qualification: Qualifications (eg. BA Performing Arts)
@@ -17,3 +8,4 @@
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
+    
