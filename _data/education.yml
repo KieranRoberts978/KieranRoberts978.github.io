@@ -8,11 +8,12 @@
   description: | # this will include new lines to allow paragraphs
     Description of qualification
     
-# Education Template 2
-layout: left
-name: Brondeg
-dates: 2015-2016
-qualification: Qualifications
-quote: >
-
-description: | # this will include new lines to allow paragraphs
+# Education Template
+- layout: left
+  name: Brondeg
+  dates: 2012-2015
+  qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
