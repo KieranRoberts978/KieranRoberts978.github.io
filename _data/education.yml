@@ -10,7 +10,9 @@
 - layout: left
   name: Brondeg
   dates: 2015-2016
-  qualification: Maths, English, Science
+  qualification: Maths - C
+  English - C
+  Science -C
   quote: >
   description: | # this will include new lines to allow paragraphs
-  Maths - C <br> English - C
+ 
