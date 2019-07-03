@@ -13,6 +13,4 @@
   qualification: Maths, English, Science
   quote: >
   description: | # this will include new lines to allow paragraphs
-  Maths - C
-  English - C
-  Science - C
+  Maths - C <br> English - C
