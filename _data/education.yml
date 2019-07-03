@@ -2,7 +2,7 @@
 - layout: left
   name: Institution name
   dates: Date Range (eg. 2016 - 2019)
-  qualification: Maths C         English C
+  qualification: Maths,English,Science - C
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
